@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shraddha<br>💻 CSIT student | Aspiring Data Scientist & AI enthusiast<br>🚀 I love building beginner-friendly projects, exploring data, and learning by doing.<br>🌱 Currently growing through open-source, community work, and consistent practice.<br>✨ Curious mind, big goals, and a habit of shipping things I learn.<br>My brain has 47 tabs open — 3 are coding, 44 are “what if?"
+👋 Hi, I’m Shraddha<br>💻 CSIT student | ML Engineer <br>🚀 I love building beginner-friendly projects, exploring data, and learning by doing.<br>🌱 Currently growing through open-source, community work, and consistent practice.<br>✨ Curious mind, big goals, and a habit of shipping things I learn.<br>My brain has 47 tabs open — 3 are coding, 44 are “what if?"
 
 
 ## 🌐 Socials:
