@@ -1,6 +1,7 @@
 ## About Me:
 Hi, I’m Shraddha<br> CSIT student | ML Engineer <br>- I love building beginner-friendly projects, exploring data, and learning by doing.<br>- Currently growing through open-source, community work, and consistent practice.<br>- Curious mind, big goals, and a habit of shipping things I learn.<br>My brain has 47 tabs open, 3 are coding, 44 are “what if?"
 
+![](https://komarev.com/ghpvc/?username=Shraddha6211&label=Shraddha%20was%20Summoned%20This%20Many%20Times&color=blue&style=flat)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shraddha_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shraddhatiwari1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shraddhafebruary2025) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@shraddhatiwari.com.np) 
